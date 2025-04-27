@@ -13,4 +13,9 @@
 <li> Fully responsive design</li>
 </ul>
 
+
+<h2>Live Demo</h2>
+    <p><a href="https://weather-7hjy.vercel.app/" target="_blank"> Click here to visit Weather App</a></p>
+
+
 </div>
